@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT1,2s,PinHeader_1x02_P2.54mm_Vertical,203.454,-63.0174,0.0,top
+BT2,1s1,PinHeader_1x02_P2.54mm_Vertical,145.0,-55.5,180.0,top
+BT3,1s2,PinHeader_1x02_P2.54mm_Vertical,141.0,-55.4112,180.0,top
+BT4,1s3,PinHeader_1x02_P2.54mm_Vertical,167.1828,-55.494,180.0,top
+J1,LEO2,PinHeader_1x05_P2.54mm_Vertical,127.9906,-63.6728,90.0,top
+J2,LEO1,PinHeader_1x04_P2.54mm_Vertical,128.9966,-70.3326,90.0,top
+J4,Strat1,PinHeader_1x04_P3.08mm_Vertical,153.6535,-55.3483,90.0,top
+J5,Ezmini1,PinHeader_1x02_P2.54mm_Vertical,153.3144,-66.0704,90.0,top
+J7,FWGPS,PinHeader_1x02_P2.54mm_Vertical,119.456348,-63.363476,95.0,top
+J8,camera,PinHeader_1x02_P2.54mm_Vertical,192.1002,-62.9412,0.0,top
+J9,DCDC1,PinHeader_1x02_P2.54mm_Vertical,192.0,-55.5548,0.0,top
+J10,DCDC1,PinHeader_1x02_P2.54mm_Vertical,212.1154,-55.5244,0.0,top
+J11,Ezmini1,PinHeader_1x02_P2.54mm_Vertical,153.3398,-73.2078,90.0,top
+SW1,SW_DPST_x2,PinHeader_1x04_P2.54mm_Vertical,225.6282,-57.9628,90.0,top
+SW2,SW_DPST_x2,PinHeader_1x04_P2.54mm_Vertical,225.5774,-54.2444,90.0,top
